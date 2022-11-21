@@ -1,0 +1,1 @@
+https://typescript.hotexamples.com/examples/react/-/useCallback/typescript-usecallback-function-examples.html
